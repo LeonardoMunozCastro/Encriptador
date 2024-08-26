@@ -5,6 +5,7 @@ Esta página es tu herramienta perfecta para enviar mensajes secretos a tus amig
 ## Tabla de Contenidos
 
 - [Descripción](#descripción)
+- [Instrucciones](#instrucciones)
 - [Uso](#uso)
 - [Autor](#autor)
 - [Agradecimientos y Créditos](#agradecimientos-y-créditos)
@@ -13,6 +14,16 @@ Esta página es tu herramienta perfecta para enviar mensajes secretos a tus amig
 ## Descripción
 
 "SecureMessage" es una aplicación web diseñada para encriptar y desencriptar mensajes de texto. Con un solo clic, puedes transformar cualquier mensaje en un código que solo podrá ser leído por aquellos que tengan acceso a la misma página. Ya sea para enviar notas confidenciales o simplemente mantener conversaciones privadas, "SecureMessage" es la herramienta ideal para mantener tus mensajes a salvo de ojos curiosos.
+
+## Instrucciones
+
+Para iniciar esta aplicación en tu entorno local, sigue estos pasos:
+
+1. **Instalar dependencias:** Abre la consola de comandos en el directorio del proyecto y ejecuta: `npm i`
+   Esto instalará todas las dependencias necesarias para que la aplicación funcione.
+
+2. **Iniciar el servidor local:** Una vez instaladas las dependencias, inicia el servidor local con el siguiente comando: `npm run dev`
+   Esto iniciará la aplicación en `http://localhost:5173/`. Abre este enlace en tu navegador para ver la aplicación en funcionamiento.
 
 ## Uso
 
